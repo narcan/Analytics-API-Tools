@@ -1,0 +1,1 @@
+Bulk Analytics Configurations with Google Sheets (read about it in [Online Behavior from November 2015](http://online-behavior.com/analytics/bulk-configuration)) is a set API tools that facilitate Google Analytics configurations for Enterprise users and corporate partners.
